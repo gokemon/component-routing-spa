@@ -1,7 +1,13 @@
 import { Component } from '@angular/core';
+/* Imports Angular "core" library modules above and my stuff below */
 
+/* TypeDecorator */
 @Component({
   selector: 'my-app',
-  template: `<h1>Hello {{name}}</h1>`,
+templateUrl: './app/app.component.html'
+
 })
-export class AppComponent  { name = 'Component Routing with Cats and Dogs'; }
+/* Export class */
+export class AppComponent {
+  // code stub here
+}

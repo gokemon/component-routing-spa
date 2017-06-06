@@ -6,16 +6,18 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 var core_1 = require("@angular/core");
+/* Imports Angular "core" library modules above and my stuff below */
+/* TypeDecorator */
 var AppComponent = (function () {
+    /* Export class */
     function AppComponent() {
-        this.name = 'Component Routing with Cats and Dogs';
     }
     return AppComponent;
 }());
 AppComponent = __decorate([
     core_1.Component({
         selector: 'my-app',
-        template: "<h1>Hello {{name}}</h1>",
+        templateUrl: './app/app.component.html'
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;

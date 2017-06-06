@@ -1,0 +1,22 @@
+
+    "name": "component-routing-spa",
+    "version": "1.0.0",
+    "description": "Angular 2 Component Routing with Cats and Dogs, supplemented with testing support",
+    "keywords": [
+        "Node",
+        "Angular 2",
+        "Component Routing"
+    ],
+    "author": "Michael Gokey",
+    "license": "MIT",
+    
+    npm install material-design-lite --save
+
+
+    https://github.com/dwyl/repo-badges
+    https://glebbahmutov.com/blog/project-status-badges/
+    https://yanni4night.github.io/badge.html
+    
+    
+    
+    https://scotch.io/tutorials/routing-angular-2-single-page-apps-with-the-component-router

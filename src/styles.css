@@ -1,7 +1,7 @@
 /* Jumbotron */
 
 .demo-layout-transparent {
-    background: linear-gradient( rgba(0, 0, 255, 0.45), rgba(0, 0, 255, 0.45)), url('assets/scotch-dog1.jpg') center / cover;
+    background: linear-gradient( rgba(0, 0, 255, 0.45), rgba(0, 0, 255, 0.45)), url('assets/puppies.jpg') center / cover;
     height: 400px;
 }
 
